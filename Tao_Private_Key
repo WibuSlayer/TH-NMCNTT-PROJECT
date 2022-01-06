@@ -1,1 +1,1 @@
-"C:\Users\Win732bit1\Desktop\Hostprivate_key.pem" -pkeyopt rsa_keygen_bits:2048
+openssl genpkey -algorithm RSA -out "C:\Users\Win732bit1\Desktop\Hostprivate_key.pem" -pkeyopt rsa_keygen_bits:2048
