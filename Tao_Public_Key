@@ -1,0 +1,1 @@
+openssl rsa -pubout -in "C:\Users\Win732bit1\Desktop\Hostprivate_key.pem" -out "C:\Users\Win732bit1\Desktop\Hostpublic_key.pem"
